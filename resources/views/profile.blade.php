@@ -49,10 +49,9 @@
 @endsection
 @section('scripts')
 <script>
-    const toggle = document.getElementById('dropdownToggle');
-    const menu = document.getElementById('dropdownMenu');
-    toggle.addEventListener('click', () => {
-        menu.classList.toggle('hidden');
+    document.querySelector('button').addEventListener('click', function () {
+        const dropdown = document.querySelector('.dropdown-content');
+        dropdown.classList.toggle('hidden');
     });
 </script>
 @endsection
