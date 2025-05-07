@@ -18,6 +18,6 @@ Setelah login, dashboard yang menampilkan ringkasan data penting, seperti daftar
 Mahasiswa dapat data pribadi seperti username, nama, email,NIM, dan juga program Studi untuk memastikan informasi selalu akurat dan terkini.
 
 - Pengelolaan Data Mahasiswa
-Admin dan staf fakultas dapat mengelola data mahasiswa seperti data akademik,Nim, Nama, Program Studi, status aktif/kuliah, serta pencatatan prestasi atau pelanggaran akademik.
+Admin dan staf fakultas dapat mengelola data mahasiswa seperti data akademik,Nim, Nama, Program Studi, status aktif/kuliah.
 
 Website ini bertujuan untuk meningkatkan efektivitas layanan akademik, mempercepat proses administrasi, serta mendukung transformasi digital di lingkungan Universitas Jember.
